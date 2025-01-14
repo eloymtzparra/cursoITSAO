@@ -8,3 +8,5 @@ segunda modificacion
 Autor: Eloy Martinez Parra
 
 curso de control de versiones 
+
+version 2.85
